@@ -48,6 +48,15 @@ footer {
 	padding: 0 50px;
 }
 
+.modal-content iframe {
+	margin: 15px auto;
+	margin-bottom: 10px;
+}
+
+.modal-dialog{
+	text-align: center;
+}
+
 .btn-lg {
 	font-size: 36px;
 }
@@ -91,6 +100,17 @@ footer {
 	border-color: #e74c3c;
 	width: 160px;
 	margin-top: 15px;
+}
+
+.modal-content button.close {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	background-color: white;
+	border-radius: 28px;
+	font-size: 28px;
+	width: 40px;
+	opacity: 1;
 }
 
 /* Small devices (tablets, 768px and up) */
