@@ -38,6 +38,7 @@ footer {
 	color: white;
 }
 
+
 .jumbotron h1 {
 	margin-top: 0px;
 	margin-bottom: 50px;
@@ -163,6 +164,10 @@ footer {
 
 	footer img{
 		width: 80%;
+	}
+	
+	#middleimg {
+		width: 100%;
 	}
 }
 

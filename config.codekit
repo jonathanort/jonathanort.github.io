@@ -573,6 +573,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bg_tips.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 962539,
+		"inputAbbreviatedPath": "\/images\/bg_tips.jpg",
+		"outputAbbreviatedPath": "\/images\/bg_tips.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg_web.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.85323e+06,
+		"inputAbbreviatedPath": "\/images\/bg_web.jpg",
+		"outputAbbreviatedPath": "\/images\/bg_web.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/big_tips2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.22048e+06,
+		"inputAbbreviatedPath": "\/images\/big_tips2.jpg",
+		"outputAbbreviatedPath": "\/images\/big_tips2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/big_tips2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.76039e+06,
+		"inputAbbreviatedPath": "\/images\/big_tips2.png",
+		"outputAbbreviatedPath": "\/images\/big_tips2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bottom_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
