@@ -672,6 +672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/tuimage\/codeacademy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80936,
+		"inputAbbreviatedPath": "\/images\/tuimage\/codeacademy.jpg",
+		"outputAbbreviatedPath": "\/images\/tuimage\/codeacademy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/tuimage\/mobilepatterns.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -723,6 +734,17 @@
 		"initialSize": 75114,
 		"inputAbbreviatedPath": "\/images\/tuimage\/treehouse.jpg",
 		"outputAbbreviatedPath": "\/images\/tuimage\/treehouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/tuimage\/udemy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76909,
+		"inputAbbreviatedPath": "\/images\/tuimage\/udemy.jpg",
+		"outputAbbreviatedPath": "\/images\/tuimage\/udemy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
