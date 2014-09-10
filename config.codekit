@@ -56,6 +56,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/firstweb.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/firstweb.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/fonts\/font-awesome\/css\/font-awesome.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -628,6 +637,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/commit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155117,
+		"inputAbbreviatedPath": "\/images\/commit.png",
+		"outputAbbreviatedPath": "\/images\/commit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/commit2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103658,
+		"inputAbbreviatedPath": "\/images\/commit2.png",
+		"outputAbbreviatedPath": "\/images\/commit2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/drag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.1023e+06,
+		"inputAbbreviatedPath": "\/images\/drag.png",
+		"outputAbbreviatedPath": "\/images\/drag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/j.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -650,6 +692,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/new-rep.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18482,
+		"inputAbbreviatedPath": "\/images\/new-rep.png",
+		"outputAbbreviatedPath": "\/images\/new-rep.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/phonehand.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -657,6 +710,17 @@
 		"initialSize": 185292,
 		"inputAbbreviatedPath": "\/images\/phonehand.png",
 		"outputAbbreviatedPath": "\/images\/phonehand.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/remotes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84375,
+		"inputAbbreviatedPath": "\/images\/remotes.png",
+		"outputAbbreviatedPath": "\/images\/remotes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -694,17 +758,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/tuimage\/city.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/tuimage\/city.png",
-		"outputAbbreviatedPath": "\/images\/tuimage\/city.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/tuimage\/cocoa.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -727,6 +780,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/tuimage\/firstweb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/tuimage\/firstweb.png",
+		"outputAbbreviatedPath": "\/images\/tuimage\/firstweb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/tuimage\/mobilepatterns.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -734,17 +798,6 @@
 		"initialSize": 58472,
 		"inputAbbreviatedPath": "\/images\/tuimage\/mobilepatterns.jpg",
 		"outputAbbreviatedPath": "\/images\/tuimage\/mobilepatterns.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/tuimage\/porsche.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/tuimage\/porsche.png",
-		"outputAbbreviatedPath": "\/images\/tuimage\/porsche.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
